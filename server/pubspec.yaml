@@ -1,0 +1,7 @@
+name: server
+description: >-
+  This application is example for usage of socket.io (packege dart)
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+dependencies:
+  socket_io: ^1.0.0
