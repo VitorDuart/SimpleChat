@@ -1,4 +1,4 @@
-name: chat
+name: simplechat
 description: A chat builds in flutter and socket.io package.
 
 publish_to: 'none'
